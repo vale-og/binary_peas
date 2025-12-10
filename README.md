@@ -12,4 +12,4 @@ Because of this, in this project I attempt to compare the population of known pe
 
 
 -----------------------------------------------
-This repository contains all necessary files to run the notebook, as well as a compiled pdf version of the code and annotations.
+** This repository contains all necessary files to run the notebook, as well as a compiled pdf version of the code and annotations. **
