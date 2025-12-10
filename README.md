@@ -9,3 +9,7 @@ Moreso, planets frequently exhibit correlated properties, including similar radi
 Nonetheless, even though surveys tend to control for stellar properties (meaning, there is an underlying selection for stars with specific masses or metallicities), binarity is sometimes ignored, both for how difficult it is to find binary companions, and because the effects of a secondary star are not well constrained yet (Kraus et al. 2016, Ziegler et al. 2018). With the arrival of Gaia we have been able to find and confirm more binary stars than ever (El-Badry et al. 2021), and it has been shown that multiplicity is a very important factor in star formation.
 
 Because of this, in this project I attempt to compare the population of known peas-in-a-pod (PIAP) systems to those that host a second star, to see how well the populations match eachother, or in the contrary, how much they differ. 
+
+
+-----------------------------------------------
+This repository contains all necessary files to run the notebook, as well as a compiled pdf version of the code and annotations.
